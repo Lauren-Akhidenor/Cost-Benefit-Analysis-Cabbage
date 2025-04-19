@@ -6,15 +6,14 @@
 
 This project focuses on evaluating the impact of mycorrhizal fungi application on cabbage (*Brassica oleracea*) cultivation, with an emphasis on both sustainable agriculture and economic feasibility. Cabbage is a key crop in Kenya’s agriculture, contributing to national food security and economic growth. This study explores a biological soil amendment—mycorrhizal inoculant—as a strategy to improve plant growth, resilience, and economic feasibility.
 
-===============================================================================================
+-----
 
 ## 🎯 **Project Aim**
 
 
 The primary aim of this project is to investigate the agronomic and economic benefits of mycorrhizae fungi inoculation on cabbage plants. The goal is to enhance productivity, resource efficiency, and sustainability in agricultural systems.
 
-===============================================================================================
-
+-----
 ## 🎯 **Objectives**
 
 To evaluate changes in root length, thickness, and biomass resulting from mycorrhizal treatment.
@@ -23,7 +22,7 @@ To compare the overall health and growth rate of cabbage plants with and without
 
 To perform a cost-benefit analysis comparing mycorrhizae-treated and untreated cabbage crops.
 
-===============================================================================================
+-----
 
 ## 🔬 **Methodology**
 
@@ -32,7 +31,7 @@ To perform a cost-benefit analysis comparing mycorrhizae-treated and untreated c
 - Control Group: Cabbages without inoculant.
 - Plots: 10m × 6m area producing 170 cabbage heads per plot.
 
-===============================================================================================
+-----
 
 ### **Agronomic Inputs**
 
@@ -42,9 +41,12 @@ To perform a cost-benefit analysis comparing mycorrhizae-treated and untreated c
 - Duduthrin: Pesticide.
 
 
+![Screenshot 614](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(614).png)
 
 
   
+![Screenshot 591](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(591).png)
+
 
 
 ===============================================================================================
