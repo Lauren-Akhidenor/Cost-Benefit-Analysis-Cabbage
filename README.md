@@ -1,20 +1,19 @@
 # 🌱 **Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation: A Cost-Benefit Perspective**
 
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
+🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
 
 ## 📖 **Overview**
 
 This project focuses on evaluating the impact of mycorrhizal fungi application on cabbage (*Brassica oleracea*) cultivation, with an emphasis on both sustainable agriculture and economic feasibility. Cabbage is a key crop in Kenya’s agriculture, contributing to national food security and economic growth. This study explores a biological soil amendment—mycorrhizal inoculant—as a strategy to improve plant growth, resilience, and economic feasibility.
 
----
+===============================================================================================
 
 ## 🎯 **Project Aim**
 
-===================
 
 The primary aim of this project is to investigate the agronomic and economic benefits of mycorrhizae fungi inoculation on cabbage plants. The goal is to enhance productivity, resource efficiency, and sustainability in agricultural systems.
 
----
+===============================================================================================
 
 ## 🎯 **Objectives**
 
@@ -24,7 +23,7 @@ To compare the overall health and growth rate of cabbage plants with and without
 
 To perform a cost-benefit analysis comparing mycorrhizae-treated and untreated cabbage crops.
 
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
+===============================================================================================
 
 ## 🔬 **Methodology**
 
@@ -33,7 +32,7 @@ To perform a cost-benefit analysis comparing mycorrhizae-treated and untreated c
 - Control Group: Cabbages without inoculant.
 - Plots: 10m × 6m area producing 170 cabbage heads per plot.
 
----
+===============================================================================================
 
 ### **Agronomic Inputs**
 
@@ -48,13 +47,13 @@ To perform a cost-benefit analysis comparing mycorrhizae-treated and untreated c
   
 
 
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
+===============================================================================================
 
 ## 📊 **Key Findings**
 
 Preliminary results revealed a notable increase in root development among mycorrhizae-treated plants, indicating enhanced nutrient absorption and structural stability. Additionally, treated plants displayed improved health scores, darker green foliage, and greater resistance to pests. These findings suggest a potential for greater resilience and productivity under sustainable farming practices.
 
----
+===============================================================================================
 
 ## 💰 **Cost-Benefit Analysis (CBA)**
 
@@ -62,7 +61,7 @@ Preliminary results revealed a notable increase in root development among mycorr
 1. Control Group (Without Inoculants): Cabbages grown without mycorrhizal fungi.
 2. Treatment Group (With Inoculants): Cabbages treated with mycorrhizal fungi.
 
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
+===============================================================================================
 
 ### **CBA Methodology**
 - Input Cost Data: Collected through structured checklists.
@@ -73,7 +72,7 @@ Preliminary results revealed a notable increase in root development among mycorr
    - Gross Margin per Square Meter: Profitability analysis.
    - Return on Investment (ROI): Calculation of economic return.
 
----
+===============================================================================================
 
 ## 📈 **Economic Insight**
 
@@ -98,7 +97,7 @@ Preliminary results revealed a notable increase in root development among mycorr
 
 This analysis provides evidence-based recommendations for smallholder farmers, agribusinesses, and policymakers by quantifying the trade-offs between upfront input costs and long-term productivity gains. The use of mycorrhizal fungi demonstrated enhanced profitability, improved soil health, and greater resilience—critical components for scaling sustainable agriculture in developing economies.
 
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
+===============================================================================================
 
 ## 🌍 **Conclusion**
  
@@ -106,11 +105,10 @@ This analysis provides evidence-based recommendations for smallholder farmers, a
 - Demonstrating how biological soil enhancers like mycorrhizal fungi can align with ustainable Development Goals (SDGs), such as zero hunger and climate-resilient agriculture.
 - By combining empirical plant data with agricultural economic analysis, this study contributes to the growing discourse on low-cost, high-impact interventions for African food systems.
 
----
 
 
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
 
----
+🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
+
 
 
