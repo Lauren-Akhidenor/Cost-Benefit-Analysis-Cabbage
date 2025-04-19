@@ -1,5 +1,4 @@
-# 🌱 **Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation: A Cost-Benefit Perspective**
-
+# 🌱 **ENHANCING SUSTAINABLE CABBAGE PRODUCTION THROUGH MYCORRHIZAL INOCULATION: A COST-BENEFIT PERSPECTIVE** 
 🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
 
 ## 📖 **Overview**
@@ -79,7 +78,7 @@ Preliminary results revealed a notable increase in root development among mycorr
 ## 📈 **Economic Insight**
 
 -------
-**📊  Cost of Production for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
+**📊 Table 1:  Cost of Production for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
 
 ![Screenshot 615](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(615).png)
 
@@ -91,9 +90,9 @@ NOTE:
 
 
 -------
-**📊 Cost-Benefit Ratio for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
+**📊 Table 2: Cost-Benefit Ratio for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
 
-![Screenshot 588](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(588).png)
+![Screenshot 616](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(616).png)
 
 
 -------
@@ -107,10 +106,10 @@ The formula for ROI is:
 **ROI = (Profit / Total Cost) * 100**
 
 
-### 📊 Return on Investment (ROI) for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)
+**📊 Table 3: Return on Investment (ROI) for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
 
 
-![Screenshot 589](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(589).png)
+![Screenshot 617](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(617).png)
 
 
 In this study, the **Return on Investment (ROI)** for both scenarios—Case 1 (without mycorrhizal inoculant) and Case 2 (with mycorrhizal inoculant)—was calculated to compare the economic viability of each farming practice. The ROI is an essential indicator of whether the costs associated with the mycorrhizal treatment yield sufficient economic benefits in terms of profit. 
