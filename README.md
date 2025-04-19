@@ -49,13 +49,13 @@ To perform a cost-benefit analysis comparing mycorrhizae-treated and untreated c
 
 
 
-===============================================================================================
+---
 
 ## 📊 **Key Findings**
 
 Preliminary results revealed a notable increase in root development among mycorrhizae-treated plants, indicating enhanced nutrient absorption and structural stability. Additionally, treated plants displayed improved health scores, darker green foliage, and greater resistance to pests. These findings suggest a potential for greater resilience and productivity under sustainable farming practices.
 
-===============================================================================================
+------
 
 ## 💰 **Cost-Benefit Analysis (CBA)**
 
@@ -63,7 +63,7 @@ Preliminary results revealed a notable increase in root development among mycorr
 1. Control Group (Without Inoculants): Cabbages grown without mycorrhizal fungi.
 2. Treatment Group (With Inoculants): Cabbages treated with mycorrhizal fungi.
 
-===============================================================================================
+------
 
 ### **CBA Methodology**
 - Input Cost Data: Collected through structured checklists.
@@ -74,32 +74,55 @@ Preliminary results revealed a notable increase in root development among mycorr
    - Gross Margin per Square Meter: Profitability analysis.
    - Return on Investment (ROI): Calculation of economic return.
 
-===============================================================================================
+------
 
 ## 📈 **Economic Insight**
 
+-------
+**📊  Cost of Production for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
+
+![Screenshot 615](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(615).png)
 
 
+NOTE: 
+- When case 1 without mycorrhizal inoculant was sold at Ksh.40 for 1 cabbage amounts to 40 * 170 = Ksh. 6,800 
+- For case 2 with mycorrhizal inoculant, the cabbage was sold at ksh.80 for 1 cabbage which amounts to 80*170 = Ksh. 13,600 
+- CBR or cost-benefit ratio = Total benefit/  Total cost 
 
 
+-------
+**📊 Cost-Benefit Ratio for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
+
+![Screenshot 588](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(588).png)
 
 
+-------
+
+**📊 Return On Investment (ROI)**
+
+Return on Investment (ROI) is a performance measure used to evaluate the efficiency or profitability of an investment or compare the efficiency of several different investments. It is calculated as the ratio of profit to total costs, expressed as a percentage. 
+
+The formula for ROI is:
+
+**ROI = (Profit / Total Cost) * 100**
 
 
+### 📊 Return on Investment (ROI) for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)
 
 
+![Screenshot 589](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(589).png)
 
 
+In this study, the **Return on Investment (ROI)** for both scenarios—Case 1 (without mycorrhizal inoculant) and Case 2 (with mycorrhizal inoculant)—was calculated to compare the economic viability of each farming practice. The ROI is an essential indicator of whether the costs associated with the mycorrhizal treatment yield sufficient economic benefits in terms of profit. 
 
-
-
+By calculating the ROI, we can assess the financial effectiveness of using mycorrhizal inoculants as an input in cabbage farming, providing valuable insights for smallholder farmers and policymakers in making cost-effective decisions.
 
 
 
 
 This analysis provides evidence-based recommendations for smallholder farmers, agribusinesses, and policymakers by quantifying the trade-offs between upfront input costs and long-term productivity gains. The use of mycorrhizal fungi demonstrated enhanced profitability, improved soil health, and greater resilience—critical components for scaling sustainable agriculture in developing economies.
 
-===============================================================================================
+-------
 
 ## 🌍 **Conclusion**
  
