@@ -112,7 +112,7 @@ The formula for ROI is:
 ![Screenshot 617](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(617).png)
 
 
-In this study, the **Return on Investment (ROI)** for both scenarios—Case 1 (without mycorrhizal inoculant) and Case 2 (with mycorrhizal inoculant)—was calculated to compare the economic viability of each farming practice. The ROI is an essential indicator of whether the costs associated with the mycorrhizal treatment yield sufficient economic benefits in terms of profit. 
+In this study, the **Return on Investment (ROI)** for both scenarios Case 1 (without mycorrhizal inoculant) and Case 2 (with mycorrhizal inoculant) was calculated to compare the economic viability of each farming practice. The ROI is an essential indicator of whether the costs associated with the mycorrhizal treatment yield sufficient economic benefits in terms of profit. 
 
 By calculating the ROI, we can assess the financial effectiveness of using mycorrhizal inoculants as an input in cabbage farming, providing valuable insights for smallholder farmers and policymakers in making cost-effective decisions.
 
