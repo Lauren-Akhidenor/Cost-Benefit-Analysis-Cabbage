@@ -3,7 +3,7 @@
 
 ## 📖 **Overview**
 
-This project focuses on evaluating the impact of mycorrhizal fungi application on cabbage (*Brassica oleracea*) cultivation, with an emphasis on both sustainable agriculture and economic feasibility. Cabbage is a key crop in Kenya’s agriculture, contributing to national food security and economic growth. This study explores a biological soil amendment—mycorrhizal inoculant—as a strategy to improve plant growth, resilience, and economic feasibility.
+This project focuses on evaluating the impact of mycorrhizal fungi application on cabbage (*Brassica oleracea*) cultivation, with an emphasis on both sustainable agriculture and economic feasibility. Cabbage is a key crop in Kenya’s agriculture, contributing to national food security and economic growth. This study explores a biological soil amendment (mycorrhizal inoculant) as a strategy to improve plant growth, resilience, and economic feasibility.
 
 -----
 
