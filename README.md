@@ -1,19 +1,19 @@
-# 🌱 **ENHANCING SUSTAINABLE CABBAGE PRODUCTION THROUGH MYCORRHIZAL INOCULATION: A COST-BENEFIT PERSPECTIVE** 
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
+# **ENHANCING SUSTAINABLE CABBAGE PRODUCTION THROUGH MYCORRHIZAL INOCULATION: A COST-BENEFIT PERSPECTIVE** 
+----
 
-## 📖 **Overview**
+## **Overview**
 
 This project focuses on evaluating the impact of mycorrhizal fungi application on cabbage (*Brassica oleracea*) cultivation, with an emphasis on both sustainable agriculture and economic feasibility. Cabbage is a key crop in Kenya’s agriculture, contributing to national food security and economic growth. This study explores a biological soil amendment (mycorrhizal inoculant) as a strategy to improve plant growth, resilience, and economic feasibility.
 
 -----
 
-## 🎯 **Project Aim**
+## **Project Aim**
 
 
 The primary aim of this project is to investigate the agronomic and economic benefits of mycorrhizae fungi inoculation on cabbage plants. The goal is to enhance productivity, resource efficiency, and sustainability in agricultural systems.
 
 -----
-## 🎯 **Objectives**
+## **Objectives**
 
 To evaluate changes in root length, thickness, and biomass resulting from mycorrhizal treatment.
 
@@ -23,7 +23,7 @@ To perform a cost-benefit analysis comparing mycorrhizae-treated and untreated c
 
 -----
 
-## 🔬 **Methodology**
+## **Methodology**
 
 ### **Experimental Design**
 - Treatment Group: Cabbages treated with mycorrhizal inoculant.
@@ -50,13 +50,13 @@ To perform a cost-benefit analysis comparing mycorrhizae-treated and untreated c
 
 ---
 
-## 📊 **Key Findings**
+## **Key Findings**
 
 Preliminary results revealed a notable increase in root development among mycorrhizae-treated plants, indicating enhanced nutrient absorption and structural stability. Additionally, treated plants displayed improved health scores, darker green foliage, and greater resistance to pests. These findings suggest a potential for greater resilience and productivity under sustainable farming practices.
 
 ------
 
-## 💰 **Cost-Benefit Analysis (CBA)**
+## **Cost-Benefit Analysis (CBA)**
 
 ### **Economic Scenarios**
 1. Control Group (Without Inoculants): Cabbages grown without mycorrhizal fungi.
@@ -75,10 +75,10 @@ Preliminary results revealed a notable increase in root development among mycorr
 
 ------
 
-## 📈 **Economic Insight**
+## **Economic Insight**
 
 -------
-**📊 Table 1:  Cost of Production for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
+**Table 1:  Cost of Production for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
 
 ![Screenshot 615](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(615).png)
 
@@ -90,14 +90,14 @@ NOTE:
 
 
 -------
-**📊 Table 2: Cost-Benefit Ratio for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
+**Table 2: Cost-Benefit Ratio for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
 
 ![Screenshot 616](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(616).png)
 
 
 -------
 
-**📊 Return On Investment (ROI)**
+**Return On Investment (ROI)**
 
 Return on Investment (ROI) is a performance measure used to evaluate the efficiency or profitability of an investment or compare the efficiency of several different investments. It is calculated as the ratio of profit to total costs, expressed as a percentage. 
 
@@ -106,7 +106,7 @@ The formula for ROI is:
 **ROI = (Profit / Total Cost) * 100**
 
 
-**📊 Table 3: Return on Investment (ROI) for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
+**Table 3: Return on Investment (ROI) for Both Case 1 (Without Mycorrhizal Inoculant) and Case 2 (With Mycorrhizal Inoculant)**
 
 
 ![Screenshot 617](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(617).png)
@@ -123,7 +123,7 @@ This analysis provides evidence-based recommendations for smallholder farmers, a
 
 -------
 
-## 🌍 **Conclusion**
+## **Conclusion**
  
 - This project bridges agronomic innovation with economic evaluation
 - Demonstrating how biological soil enhancers like mycorrhizal fungi can align with ustainable Development Goals (SDGs), such as zero hunger and climate-resilient agriculture.
@@ -132,7 +132,7 @@ This analysis provides evidence-based recommendations for smallholder farmers, a
 
 
 
-🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿🌿
+
 
 
 
