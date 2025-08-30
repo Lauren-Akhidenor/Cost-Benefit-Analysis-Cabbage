@@ -1,4 +1,5 @@
-# **ENHANCING SUSTAINABLE CABBAGE PRODUCTION THROUGH MYCORRHIZAL INOCULATION: A COST-BENEFIT PERSPECTIVE** 
+# Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation: A Cost-Benefit Perspective 
+
 ----
 
 ## **Overview**
