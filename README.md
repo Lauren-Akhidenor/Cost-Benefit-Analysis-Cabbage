@@ -1,27 +1,25 @@
-# Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation: A Cost-Benefit Perspective 
+# Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation: A Cost-Benefit Analysis
 
 ----
 
 ## **Overview**
 
-This project focuses on evaluating the impact of mycorrhizal fungi application on cabbage (*Brassica oleracea*) cultivation, with an emphasis on both sustainable agriculture and economic feasibility. Cabbage is a key crop in Kenya’s agriculture, contributing to national food security and economic growth. This study explores a biological soil amendment (mycorrhizal inoculant) as a strategy to improve plant growth, resilience, and economic feasibility.
+This project evaluates the impact of mycorrhizal fungi application on cabbage (Brassica oleracea) cultivation, emphasizing sustainable agriculture and economic feasibility. Cabbage is a key crop in Kenya, contributing to national food security and economic growth. The study examines biological soil amendments (mycorrhizal inoculants) as a strategy to improve plant growth, resilience, and profitability.
 
 -----
 
 ## **Project Aim**
 
-
-The primary aim of this project is to investigate the agronomic and economic benefits of mycorrhizae fungi inoculation on cabbage plants. The goal is to enhance productivity, resource efficiency, and sustainability in agricultural systems.
+To investigate the agronomic and economic benefits of mycorrhizal fungi inoculation on cabbage, enhancing productivity, resource efficiency, and sustainability in smallholder agricultural systems.
 
 -----
 ## **Objectives**
 
-To evaluate changes in root length, thickness, and biomass resulting from mycorrhizal treatment.
+- Assess changes in root length, thickness, and biomass due to mycorrhizal treatment.
 
-To compare the overall health and growth rate of cabbage plants with and without mycorrhizal treatment.
+- Compare plant health and growth rates between treated and untreated cabbage.
 
-To perform a cost-benefit analysis comparing mycorrhizae-treated and untreated cabbage crops.
-
+- Conduct a cost-benefit analysis (CBA) to evaluate the economic feasibility of mycorrhizal inoculation.
 -----
 
 ## **Methodology**
@@ -53,7 +51,11 @@ To perform a cost-benefit analysis comparing mycorrhizae-treated and untreated c
 
 ## **Key Findings**
 
-Preliminary results revealed a notable increase in root development among mycorrhizae-treated plants, indicating enhanced nutrient absorption and structural stability. Additionally, treated plants displayed improved health scores, darker green foliage, and greater resistance to pests. These findings suggest a potential for greater resilience and productivity under sustainable farming practices.
+- Mycorrhizae-treated plants exhibited improved root development, nutrient absorption, and structural stability.
+
+- Treated plants had higher health scores, darker green foliage, and greater pest resistance.
+
+- Results suggest enhanced resilience and productivity under sustainable farming practices
 
 ------
 
@@ -66,8 +68,10 @@ Preliminary results revealed a notable increase in root development among mycorr
 ------
 
 ### **CBA Methodology**
+
 - Input Cost Data: Collected through structured checklists.
 - Analysis Tools: Microsoft Excel 2019 for data recording and calculation.
+  
 - Key Metrics: 
    - Input Costs: Fertilizers, inoculants, pesticides, labor.
    - Market Value: Price of harvested cabbage.
@@ -113,22 +117,25 @@ The formula for ROI is:
 ![Screenshot 617](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(617).png)
 
 
-In this study, the **Return on Investment (ROI)** for both scenarios Case 1 (without mycorrhizal inoculant) and Case 2 (with mycorrhizal inoculant) was calculated to compare the economic viability of each farming practice. The ROI is an essential indicator of whether the costs associated with the mycorrhizal treatment yield sufficient economic benefits in terms of profit. 
+- ROI quantifies the efficiency and profitability of mycorrhizal inoculation.
 
-By calculating the ROI, we can assess the financial effectiveness of using mycorrhizal inoculants as an input in cabbage farming, providing valuable insights for smallholder farmers and policymakers in making cost-effective decisions.
+- Comparing both cases demonstrates the economic viability of integrating mycorrhizal fungi in cabbage production.
 
+- Findings provide actionable insights for smallholder farmers, agribusinesses, and policymakers.
+  
+-----
 
-
-
-This analysis provides evidence-based recommendations for smallholder farmers, agribusinesses, and policymakers by quantifying the trade-offs between upfront input costs and long-term productivity gains. The use of mycorrhizal fungi demonstrated enhanced profitability, improved soil health, and greater resilience—critical components for scaling sustainable agriculture in developing economies.
+This analysis provides evidence-based recommendations for smallholder farmers, agribusinesses, and policymakers by quantifying the trade-offs between upfront input costs and long-term productivity gains. The use of mycorrhizal fungi demonstrated enhanced profitability, improved soil health, and greater resilience, critical components for scaling sustainable agriculture in developing economies.
 
 -------
 
 ## **Conclusion**
  
-- This project bridges agronomic innovation with economic evaluation
-- Demonstrating how biological soil enhancers like mycorrhizal fungi can align with ustainable Development Goals (SDGs), such as zero hunger and climate-resilient agriculture.
-- By combining empirical plant data with agricultural economic analysis, this study contributes to the growing discourse on low-cost, high-impact interventions for African food systems.
+- The project bridges agronomic innovation and economic evaluation, showing that biological soil enhancers like mycorrhizal fungi can boost productivity and profitability.
+
+- Results align with Sustainable Development Goals (SDGs), particularly zero hunger and climate-resilient agriculture.
+
+- Combining empirical plant data with cost-benefit analysis contributes evidence-based recommendations for scaling sustainable agriculture in Africa..
 
 
 
