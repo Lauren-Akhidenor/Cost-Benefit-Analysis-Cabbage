@@ -10,7 +10,8 @@
 5. [Key Findings](#key-findings)
 6. [Cost-Benefit Analysis (CBA)](#cost-benefit-analysis-cba)
 7. [Economic Insights](#economic-insights)
-8. [Conclusion](#conclusion)
+8. [Key Recommendations Summary](Key-Recommendations-Summary)
+9. [Conclusion](#conclusion)
 
 ---
 
