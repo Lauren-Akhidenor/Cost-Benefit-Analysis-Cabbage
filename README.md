@@ -96,7 +96,40 @@ Investigate the **agronomic and economic benefits** of mycorrhizal inoculation t
 
 ---
 
+## Key Recommendations Summary
+
+### Immediate Priorities (High Impact)
+- **Revenue doubling (KES 6,800 → 13,600 per farmer)** supports the case for targeted input subsidies to accelerate technology adoption.  
+- **Demonstration plots** are essential for farmer buy-in, as visual proof of improved crop health drives trust and uptake.  
+- **Extension officer training** is required to ensure correct application, maximize yield gains, and avoid misuse.
+
+
+
+### Economic Rationale
+- **2× market price premium (KES 80 vs KES 40 per head)** creates a powerful incentive for farmers to adopt the technology.  
+- **Return-on-Investment (ROI) evidence** strengthens the case for farmer credit and input-financing products.  
+- **Lower pest and disease pressure** reduces long-term production costs, improving farm profitability and resilience.
+
+
+
+### Sustainable Development Goal (SDG) Alignment
+- **SDG 1 – No Poverty:** Doubling of smallholder farm income potential.  
+- **SDG 2 – Zero Hunger:** Higher productivity strengthens food availability and stability.  
+- **SDG 13 – Climate Action:** Improved drought tolerance and soil health enhance climate resilience.
+
+
+
+### Critical Success Factors
+- **Reliable input supply chains** must be established to avoid adoption bottlenecks.  
+- **Quality certification systems** are needed to protect and sustain price premiums.  
+- **Gender-inclusive targeting** ensures equitable development impact.  
+- **Multi-location field validation** is required before national-scale rollout.
+
+---
+
 ## Conclusion
 - Mycorrhizal inoculation **enhances productivity and profitability**, bridging agronomy and economic evaluation.  
 - Supports **SDGs**, including zero hunger and climate-resilient agriculture.  
 - Combines empirical plant data with CBA to provide **evidence-based recommendations** for sustainable farming in Kenya.
+
+-----
