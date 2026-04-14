@@ -157,7 +157,7 @@ ROI = (Profit ÷ Total Cost) × 100
 ---
 
 ## 🔍 Key Insight
-This analysis highlights a critical gap between **agronomic innovation and market validation**—improved crop performance does not automatically translate into higher economic returns without supporting pricing structures.
+This analysis highlights a critical gap between **agronomic innovation and market validation**, improved crop performance does not automatically translate into higher economic returns without supporting pricing structures.
 
 ---
 
