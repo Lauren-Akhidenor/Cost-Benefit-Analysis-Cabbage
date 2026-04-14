@@ -3,134 +3,206 @@
 ---
 
 ## 📑 Table of Contents
-1. [Project Overview](#project-overview)
-2. [Project Aim](#project-aim)
-3. [Objectives](#objectives)
-4. [Methodology](#methodology)
-5. [Key Findings](#key-findings)
-6. [Cost-Benefit Analysis (CBA)](#cost-benefit-analysis-cba)
-7. [Economic Insights](#economic-insights)
-8. [Key Recommendations Summary](Key-Recommendations-Summary)
-9. [Conclusion](#conclusion)
+1. [Project Overview](#project-overview)  
+2. [Project Aim](#project-aim)  
+3. [Objectives](#objectives)  
+4. [Methodology](#methodology)  
+5. [Key Findings](#key-findings)  
+6. [Cost-Benefit Analysis (CBA)](#cost-benefit-analysis-cba)  
+7. [Economic Insights](#economic-insights)  
+8. [Key Recommendations Summary](#key-recommendations-summary)  
+9. [Limitations](#limitations)  
+10. [Conclusion](#conclusion) 
 
 ---
 
 ## Project Overview
-This project evaluates the impact of **mycorrhizal fungi inoculation** on cabbage (*Brassica oleracea*), focusing on **sustainable farming practices and economic viability**. Biological soil amendments are tested to improve **growth, resilience, and profitability**, supporting smallholder farmers and national food security.
+This project evaluates the impact of **mycorrhizal fungi inoculation** on cabbage (*Brassica oleracea*), focusing on **agronomic performance and economic viability**. It explores whether biological soil amendments can improve **plant growth, resilience, and profitability**, particularly for smallholder farmers.
 
 ---
 
 ## Project Aim
-Investigate the **agronomic and economic benefits** of mycorrhizal inoculation to enhance **productivity, resource efficiency, and sustainability** in smallholder agriculture.
+To assess the **agronomic effectiveness and economic feasibility** of mycorrhizal inoculation in enhancing **productivity, resource efficiency, and sustainability**.
 
 ---
 
 ## Objectives
-- Measure changes in **root length, thickness, and biomass**.  
-- Compare **health and growth rates** between treated and untreated plants.  
-- Conduct **Cost-Benefit Analysis (CBA)** to assess economic feasibility.
+- Measure changes in **root length, thickness, and biomass**  
+- Compare **plant health and growth performance**  
+- Conduct a **Cost-Benefit Analysis (CBA)**  
 
 ---
 
 ## Methodology
 
 ### Experimental Design
-- **Treatment Group:** Cabbages with mycorrhizal inoculant.  
-- **Control Group:** Cabbages without inoculant.  
-- **Plot Size:** 10m × 6m, producing 170 cabbage heads per plot.  
+- **Treatment Group:** With mycorrhizal inoculant  
+- **Control Group:** Without inoculant  
+- **Plot Size:** 10m × 6m  
+- **Output:** ~170 cabbage heads per plot  
 
 ### Agronomic Inputs
-- Mycorrhizal inoculant (biological soil enhancer)  
+- Mycorrhizal inoculant  
 - Oshothane Ridomil (fungicide)  
 - Booster (foliar nutrient)  
 - Duduthrin (pesticide)  
 
-![Screenshot 614](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(614).png)  
-![Screenshot 591](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(591).png)
+### Analytical Framework
+The study applies a **comparative experimental design**, combining:
+- Agronomic observation (treatment vs control)  
+- Partial budget analysis for economic evaluation  
+- Scenario-based pricing to model potential profitability outcomes  
+
+### Field Observations
+![Field Image 1](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(614).png)  
+![Field Image 2](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(591).png)  
 
 ---
 
 ## Key Findings
-- Treated plants showed **enhanced root growth**, nutrient uptake, and structural stability.  
-- Plants with inoculant exhibited **better health, darker foliage, and pest resistance**.  
-- Results suggest **greater resilience and productivity** under sustainable farming practices.
+- Treatment plots demonstrated **improved root structure and plant vigour**, suggesting enhanced nutrient uptake  
+- Visual indicators (leaf colour, uniformity) reflect **better physiological performance**  
+- Results indicate **potential agronomic benefits**, though not quantitatively validated  
+
+> ⚠️ Lack of measured agronomic data limits statistical validation.
 
 ---
 
 ## Cost-Benefit Analysis (CBA)
 
-**Economic Scenarios**  
-1. Control Group – no inoculant  
-2. Treatment Group – with inoculant  
+### Cost Structure
 
-**Methodology**
-- Input costs collected via structured checklists  
-- Analysis performed in **Microsoft Excel**  
-- **Key Metrics:** Input costs, market value, gross margin per m², **ROI**  
+| Input | Control (Ksh) | Treatment (Ksh) |
+|------|--------------|----------------|
+| Land | 150 | 150 |
+| Labour | 1,800 | 1,800 |
+| Water & Electricity | 1,600 | 1,600 |
+| Seed/Seedling | 340 | 340 |
+| Fungicide | 300 | 300 |
+| Pesticide | 0 | 500 |
+| Foliar Booster | 300 | 300 |
+| Mycorrhizal Inoculant | — | 1,000 |
+| **Total Cost** | **3,890** | **5,990** |
 
 ---
 
 ## Economic Insights
 
+### Revenue & Profit
+
+| Metric | Control | Treatment |
+|--------|--------|----------|
+| Yield (Heads) | 170 | 170 |
+| Price per Head (Ksh) | 40 | 80* |
+| **Total Revenue (Ksh)** | 6,800 | 13,600 |
+| **Total Cost (Ksh)** | 3,890 | 5,990 |
+| **Profit (Ksh)** | 2,910 | 7,610 |
+
+> *Price for treatment is based on a **scenario assumption** while the control was actual market price as  of 2023 when the test was carried out.
+
+---
+
+### Key Metrics
+
+**Cost-Benefit Ratio (CBR)**  
+
+CBA = Total Revenue ÷ Total Cost
+
+| Scenario | CBR |
+|----------|-----|
+| Control | **1.75** |
+| Treatment | **2.27** |
+
+---
+
+**Return on Investment (ROI)**  
+
+ROI = (Profit ÷ Total Cost) × 100
+
+| Scenario | ROI |
+|----------|-----|
+| Control | **74.8%** |
+| Treatment | **127.0%** |
+
+---
+
+### Supporting Analysis (from Excel)
+
 **Cost of Production**
+![Cost Analysis](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(615).png)  
 
-![Screenshot 615](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(615).png)  
-
-- Case 1 (no inoculant): 170 × Ksh. 40 = **Ksh. 6,800**  
-- Case 2 (with inoculant): 170 × Ksh. 80 = **Ksh. 13,600**  
-- **Cost-Benefit Ratio (CBR):** Total benefit ÷ Total cost  
 
 **CBR Comparison**
-
-![Screenshot 616](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(616).png)  
+![CBR Calculation](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(616).png)  
 
 
 **Return on Investment (ROI)**
+![ROI Calculation](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(617).png)  
 
-- ROI = (Profit ÷ Total Cost) × 100
-  
-![Screenshot 617](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(617).png)  
+---
 
-- ROI shows **profitability of mycorrhizal inoculation**.  
-- Comparison highlights **economic advantage of treatment**.  
-- Provides **actionable insights** for smallholder farmers and policymakers.  
+### Interpretation
+- The treatment scenario shows **substantially higher profitability**, with ROI increasing from **74.8% to 127.0%**  
+- The CBR improvement (**1.75 → 2.27**) indicates **greater economic efficiency per unit cost**  
+- However, results are **partly driven by assumed price premiums**, not purely agronomic gains  
+
+> **Key Insight:** Biological innovations must be evaluated based on **productivity improvements**, not assumed market advantages.
+
+---
+
+## 🔍 Key Insight
+This analysis highlights a critical gap between **agronomic innovation and market validation**—improved crop performance does not automatically translate into higher economic returns without supporting pricing structures.
 
 ---
 
 ## Key Recommendations Summary
 
-### Immediate Priorities (High Impact)
-- **Revenue doubling (KES 6,800 → 13,600 per farmer)** supports the case for targeted input subsidies to accelerate technology adoption.  
-- **Demonstration plots** are essential for farmer buy-in, as visual proof of improved crop health drives trust and uptake.  
-- **Extension officer training** is required to ensure correct application, maximize yield gains, and avoid misuse.
+### High-Impact Actions
+- Establish **demonstration plots**  
+- Strengthen **extension services and farmer training**  
+- Support **input financing mechanisms**  
 
+---
 
+### Economic Considerations
+- Profitability depends on **real market premiums or yield gains**  
+- Without price differentiation, adoption must be justified through:
+  - Increased productivity  
+  - Reduced input costs  
 
-### Economic Rationale
-- **2× market price premium (KES 80 vs KES 40 per head)** creates a powerful incentive for farmers to adopt the technology.  
-- **Return-on-Investment (ROI) evidence** strengthens the case for farmer credit and input-financing products.  
-- **Lower pest and disease pressure** reduces long-term production costs, improving farm profitability and resilience.
+---
 
+### SDG Alignment
+- **SDG 1 – No Poverty**  
+- **SDG 2 – Zero Hunger**  
+- **SDG 13 – Climate Action**  
 
-
-### Sustainable Development Goal (SDG) Alignment
-- **SDG 1 – No Poverty:** Doubling of smallholder farm income potential.  
-- **SDG 2 – Zero Hunger:** Higher productivity strengthens food availability and stability.  
-- **SDG 13 – Climate Action:** Improved drought tolerance and soil health enhance climate resilience.
-
-
+---
 
 ### Critical Success Factors
-- **Reliable input supply chains** must be established to avoid adoption bottlenecks.  
-- **Quality certification systems** are needed to protect and sustain price premiums.  
-- **Gender-inclusive targeting** ensures equitable development impact.  
-- **Multi-location field validation** is required before national-scale rollout.
+- Reliable **input supply chains**  
+- Verified **market access and pricing systems**  
+- **Farmer education and extension support**  
+- Expanded **multi-location trials**  
+
+---
+
+## Limitations
+- Price premium assumption is **not empirically validated**  
+- Lack of **quantitative agronomic measurements**  
+- Results are based on **single-scenario analysis**  
+- **Brassica–mycorrhizal compatibility** may limit biological response  
 
 ---
 
 ## Conclusion
-- Mycorrhizal inoculation **enhances productivity and profitability**, bridging agronomy and economic evaluation.  
-- Supports **SDGs**, including zero hunger and climate-resilient agriculture.  
-- Combines empirical plant data with CBA to provide **evidence-based recommendations** for sustainable farming in Kenya.
+Mycorrhizal inoculation demonstrates **strong potential to improve farm profitability**, with ROI increasing by over **50 percentage points** under the assumed scenario.  
+
+However, the economic case remains **conditional**, requiring validation through **market pricing, yield data, and broader field trials**.
+
+---
+
+## Impact Statement
+> Demonstrates how combining **field experimentation with economic analysis** can generate actionable insights for sustainable agriculture and smallholder profitability.
 
 -----
