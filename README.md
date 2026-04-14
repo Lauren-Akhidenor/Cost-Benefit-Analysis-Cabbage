@@ -81,7 +81,7 @@ The study applies a **comparative experimental design**, combining:
 | Fungicide | 300 | 300 |
 | Pesticide | 0 | 500 |
 | Foliar Booster | 300 | 300 |
-| Mycorrhizal Inoculant | — | 1,000 |
+| Mycorrhizal Inoculant | 0 | 1,000 |
 | **Total Cost** | **3,890** | **5,990** |
 
 ---
