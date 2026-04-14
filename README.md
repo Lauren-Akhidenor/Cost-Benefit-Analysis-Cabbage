@@ -98,7 +98,7 @@ The study applies a **comparative experimental design**, combining:
 | **Total Cost (Ksh)** | 3,890 | 5,990 |
 | **Profit (Ksh)** | 2,910 | 7,610 |
 
-> *Price for treatment is based on a **scenario assumption** while the control was actual market price as  of 2023 when the test was carried out.
+> *Price for treatment is based on a **scenario assumption** while the control was actual market price as  of 2023 when the test was carried out.*
 
 ---
 
