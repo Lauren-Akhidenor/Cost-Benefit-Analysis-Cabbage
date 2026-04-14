@@ -129,14 +129,20 @@ ROI = (Profit ÷ Total Cost) × 100
 ### Supporting Analysis (from Excel)
 
 **Cost of Production**
+
+
 ![Cost Analysis](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(615).png)  
 
 
 **CBR Comparison**
+
+
 ![CBR Calculation](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(616).png)  
 
 
 **Return on Investment (ROI)**
+
+
 ![ROI Calculation](https://github.com/Lauren-Akhidenor/Cost-Benefit-Analysis-Cabbage/blob/main/Screenshot%20(617).png)  
 
 ---
