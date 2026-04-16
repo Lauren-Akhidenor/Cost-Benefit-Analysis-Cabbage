@@ -1,4 +1,4 @@
-# Enhancing Sustainable Cabbage Production through Mycorrhizal Inoculation: A Cost-Benefit Analysis
+# Economic Evaluation of Mycorrhizal Inoculation in Cabbage Production (Comparative Experimental Study)
 
 ---
 
